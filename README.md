@@ -1,5 +1,6 @@
 # HaiSafeti
 
+
 Live, crowd-powered safety and road info for Haiti.
 
 ## Version 1
